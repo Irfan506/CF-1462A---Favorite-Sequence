@@ -1,7 +1,7 @@
 # CF-1462A---Favorite-Sequence
 using System;
 
-namespace string_generation
+namespace Favorite-Sequence
 {
     class Program
     {
